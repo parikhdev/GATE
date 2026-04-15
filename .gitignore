@@ -9,3 +9,6 @@
 
 # Ignore text files (if you don't want them tracked)
 *.txt
+
+# Ignore Executable files 
+*.out
