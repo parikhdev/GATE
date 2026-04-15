@@ -6,3 +6,5 @@ int main()
     printf("%d%d%d%d", a, b, c, d);
     return 0;
 }
+
+// Output is 0310
